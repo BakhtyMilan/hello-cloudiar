@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8-jre8 
+FFOM tomcat:latest
 
 # Maintainer 
 MAINTAINER "info@cloudiar.com" 
